@@ -1,0 +1,4 @@
+.vscode/settings.json
+__pycache__/prng.cpython-37.pyc
+.DS_Store
+cellAuto.py
